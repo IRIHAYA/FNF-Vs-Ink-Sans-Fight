@@ -3,6 +3,8 @@
 ## Credits
 * IRIHAYA
 * Kot_1212
+* MuffinszFell283
+* DustTale Team
 ## how to Play
 * Put it in the PsychEngine mods file and play it!
 ## attention
