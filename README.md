@@ -6,6 +6,8 @@
 * Kot_1212
 * MuffinszFell283
 * DustTale Team
+## Download
+* You can do this from the tag.
 ## how to Play
 * Put it in the PsychEngine mods file and play it!
 ## attention
